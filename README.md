@@ -23,5 +23,5 @@ I'm a Web Developer with nearly a year of hands-on experience building modern, r
 
 <p align="left"> <a href="https://www.github.com/Ziadahmed-1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-![Ziad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziadahmed-1&count_private=true&show_icons=true&theme=dracula)
+(https://github-readme-activity-graph.vercel.app/graph?username=Ziadahmed-1)](https://github.com/Ziadahmed-1/github-readme-activity-graph)
 
