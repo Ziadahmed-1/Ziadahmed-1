@@ -1,10 +1,10 @@
 Hi 👋 My name is Ziad Ahmed
 ===========================
 
-Web Developer
+Full Stack Engineer
 -------------
 
-I'm a Web Developer with nearly a year of hands-on experience building modern, responsive web applications. Passionate about creating intuitive, user-friendly interfaces, I specialize in React and have worked extensively with technologies like Next.js, Tailwind CSS, and state management tools like Redux and Zustand.
+Full-Stack Engineer with 2+ years of production experience building and scaling SaaS platforms. I work across the entire stack — React, NestJS, Node.js, PostgreSQL, AWS — and care deeply about performance, clean architecture, and code that holds up at scale.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [zyiad6@gmail.com](mailto:zyiad6@gmail.com)
