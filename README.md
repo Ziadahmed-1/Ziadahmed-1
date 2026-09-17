@@ -19,9 +19,3 @@
 
 **Tooling & Cloud**  
 `Git` `Docker` `AWS` `Vite` `Neovim`
-
----
-
-### Activity
-
-[![Ziad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ziadahmed-1&theme=react-dark)](https://github.com/Ziadahmed-1)
